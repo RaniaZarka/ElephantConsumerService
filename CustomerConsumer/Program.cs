@@ -25,6 +25,7 @@ namespace CustomerConsumer
             catch(Exception ex)
             {
 
+
             }
         }
         static async void RunAsync()
